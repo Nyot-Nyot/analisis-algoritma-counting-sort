@@ -23,7 +23,7 @@ analisis-algoritma-counting-sort/
 ## Cara Menjalankan
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/analisis-algoritma-counting-sort.git
+   git clone https://github.com/Nyot-Nyot/analisis-algoritma-counting-sort.git
    ```
 2. Masuk ke direktori repositori:
    ```bash
